@@ -29,7 +29,7 @@ This is Japanese translated version of "A Study in Patent Risk and Countermeasur
 ---
 
 ### 公開履歴  
-2017年3月30日 ver.1.0公開 (markdown)
+2017年3月30日 ver.1.0公開 (markdown, epub)
 
 ---
 
