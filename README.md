@@ -36,6 +36,8 @@ This is Japanese translated version of "A Study in Patent Risk and Countermeasur
 ### 本文
 [成果のオープンな運用における特許リスクとその対策 - インタラクションデザイン領域における検討 - (markdown)]((JP)A-Study-in-Patent-Risk-and-Countermeasures-Related-to-Open-Management-in-Interaction-Design.md)  
 
+[成果のオープンな運用における特許リスクとその対策 - インタラクションデザイン領域における検討 - (epub)]((JP)A-Study-in-Patent-Risk-and-Countermeasures-Related-to-Open-Management-in-Interaction-Design.epub)  
+
 ---
 
 
