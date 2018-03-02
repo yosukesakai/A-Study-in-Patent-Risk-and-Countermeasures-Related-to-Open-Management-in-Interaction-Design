@@ -1,7 +1,7 @@
 # 成果のオープンな運用における特許リスクとその対策 
 ## - インタラクションデザイン領域における検討   
 
-このテキストは, 2013年に出版された "A Study in Patent Risk and Countermeasures Related to Open Management in Interaction Design"** を日本語訳したものです. 翻訳時の注釈をかっこ書きで追記しています. また, 読みやすさを配慮し一部構成を変更しています (第2章から第１章へ"オープンな運用における特許リスク"を移したなど).  
+このテキストは, 2013年に出版された "A Study in Patent Risk and Countermeasures Related to Open Management in Interaction Design"** を日本語訳したものです. 読みやすさを配慮し, 一部加筆修正し, また構成を変更しています (第2章から第１章へ"オープンな運用における特許リスク"を移したなど).  
 
 
 This is Japanese translated version of "A Study in Patent Risk and Countermeasures Related to Open Management in Interaction Design"** published in 2013.
